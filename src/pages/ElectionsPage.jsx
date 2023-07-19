@@ -38,7 +38,7 @@ export default function ElectionsPage() {
 
   function handleSelectCity (event){
     setSelectedCity(event);
-    console.log(event);
+    console.log();
     
   }
 
